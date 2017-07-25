@@ -640,6 +640,7 @@ class MimeTypeGuesser
         'image/gif' => 'gif',
         'image/ief' => 'ief',
         'image/jpeg' => 'jpeg',
+        'image/jpg' => 'jpeg',
         'image/pjpeg' => 'jpeg',
         'image/ktx' => 'ktx',
         'image/png' => 'png',
